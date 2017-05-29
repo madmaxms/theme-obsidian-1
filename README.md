@@ -1,4 +1,4 @@
-# Obsidian 2
+# Obsidian 1
 Gnome theme (gtk 3.18), based upon Adwaita dark skin
 
 ![alt tag](https://github.com/madmaxms/theme-obsidian-1/blob/master/screenshot.jpg)
